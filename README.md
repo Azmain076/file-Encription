@@ -1,1 +1,1 @@
-# file-Encription
+THIS PROGRAM CAN ENCRYPT OR DECRYPT A FILE .. 
